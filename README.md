@@ -1,3 +1,8 @@
+# Bootcamp Grades - React
+
+Aplicação simples que permite informar as notas de um aluno em cada um dos módulos
+do bootcamp e o painel a direita irá exibir se o aluno foi aprovado ou reprovado.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
